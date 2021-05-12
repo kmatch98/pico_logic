@@ -14,3 +14,4 @@ CMakeFiles/
 build/
 elf2uf2/
 pioasm/
+_deps/
